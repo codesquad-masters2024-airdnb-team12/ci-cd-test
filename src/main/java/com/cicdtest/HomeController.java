@@ -10,6 +10,6 @@ public class HomeController {
 
     @GetMapping
     public String home() {
-        return "CI/CD TEST";
+        return "CI/CD TEST!!!";
     }
 }
